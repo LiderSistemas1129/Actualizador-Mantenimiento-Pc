@@ -1,3 +1,3 @@
-version=4.7
-sha256=7975cd0fc42d98a1f7d243b043bc5f8a3442bf463f12d5e39222372b77891acb
+version=4.8
+sha256=a75f0f4e50c0be702509f7d985ea7d0d8b0fbf854527cdda77bdb6405055ab66
 file=MantenimientoPC.exe
