@@ -1,3 +1,3 @@
-version=5.29
-sha256=d50742ff56c9ee0a0dd45996fc855b9e556b4dc8d3e67477111b9261826a081e
+version=5.30
+sha256=db0087f2fc567bae1b5dcb06f598b58af361b703a6c7ee6d7f5dfb73e7aaf9f5
 file=MantenimientoPC.exe
